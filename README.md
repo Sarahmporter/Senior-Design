@@ -8,3 +8,5 @@ familiar with Git/VSCode :)
 
 Ask questions if you're confused! Please don't type random command lines if you 
 don't know what they do.
+
+Testing Discord!
